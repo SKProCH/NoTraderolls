@@ -4,4 +4,4 @@ main: org.skproch.notraderolls.NoTraderolls
 api-version: '1.14'
 load: STARTUP
 authors: [SKProCH]
-description: Prohibit trade rolls for villagers. When villager gets profession for the first time it will be kept permanently.
+description: Prohibit trade rolls (traderolling) for villagers. When villager gets profession for the first time it will be kept trades permanently.
