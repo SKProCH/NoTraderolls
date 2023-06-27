@@ -1,7 +1,7 @@
 # NoTraderolls
 
-Bukkit API plugin to prohibit trade rolls (traderolling) for villagers. When villager gets profession for the first time
-it will be kept trades permanently.
+Bukkit API plugin to prohibit trade rolls (traderolling) for villagers.  
+When villager gets profession for the first time he will keep trades for this profession forever.
 
 > **Note**   
 > Should work with any bukkit compatible server with `1.14` and above. Tested on `Paper 1.20.1`
